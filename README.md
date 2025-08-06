@@ -62,7 +62,7 @@ The project pipeline is summarized in the following steps:
 
 ---
 
-## Author
+## Author -
 
 **Ashwath Narayana Reddy K**  
 - GitHub: [@ashwath-2823](https://github.com/ashwath-2823)  
